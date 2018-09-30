@@ -1,0 +1,5 @@
+E:\Tugas Kuliah\Semester 3\Pemrograman Lanjut\Praktikum 2\Refactoring\Refactoring\ConversionLibrary\bin\Debug\ConversionLibrary.dll
+E:\Tugas Kuliah\Semester 3\Pemrograman Lanjut\Praktikum 2\Refactoring\Refactoring\ConversionLibrary\bin\Debug\ConversionLibrary.pdb
+E:\Tugas Kuliah\Semester 3\Pemrograman Lanjut\Praktikum 2\Refactoring\Refactoring\ConversionLibrary\obj\Debug\ConversionLibrary.csprojResolveAssemblyReference.cache
+E:\Tugas Kuliah\Semester 3\Pemrograman Lanjut\Praktikum 2\Refactoring\Refactoring\ConversionLibrary\obj\Debug\ConversionLibrary.dll
+E:\Tugas Kuliah\Semester 3\Pemrograman Lanjut\Praktikum 2\Refactoring\Refactoring\ConversionLibrary\obj\Debug\ConversionLibrary.pdb

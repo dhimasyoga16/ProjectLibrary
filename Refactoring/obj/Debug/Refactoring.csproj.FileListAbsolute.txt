@@ -1,0 +1,11 @@
+E:\Tugas Kuliah\Semester 3\Pemrograman Lanjut\Praktikum 2\Refactoring\Refactoring\Refactoring\bin\Debug\Refactoring.exe.config
+E:\Tugas Kuliah\Semester 3\Pemrograman Lanjut\Praktikum 2\Refactoring\Refactoring\Refactoring\bin\Debug\Refactoring.exe
+E:\Tugas Kuliah\Semester 3\Pemrograman Lanjut\Praktikum 2\Refactoring\Refactoring\Refactoring\bin\Debug\Refactoring.pdb
+E:\Tugas Kuliah\Semester 3\Pemrograman Lanjut\Praktikum 2\Refactoring\Refactoring\Refactoring\bin\Debug\ConversionLibrary.dll
+E:\Tugas Kuliah\Semester 3\Pemrograman Lanjut\Praktikum 2\Refactoring\Refactoring\Refactoring\bin\Debug\ConversionLibrary.pdb
+E:\Tugas Kuliah\Semester 3\Pemrograman Lanjut\Praktikum 2\Refactoring\Refactoring\Refactoring\obj\Debug\Refactoring.csprojResolveAssemblyReference.cache
+E:\Tugas Kuliah\Semester 3\Pemrograman Lanjut\Praktikum 2\Refactoring\Refactoring\Refactoring\obj\Debug\Refactoring.Form1.resources
+E:\Tugas Kuliah\Semester 3\Pemrograman Lanjut\Praktikum 2\Refactoring\Refactoring\Refactoring\obj\Debug\Refactoring.Properties.Resources.resources
+E:\Tugas Kuliah\Semester 3\Pemrograman Lanjut\Praktikum 2\Refactoring\Refactoring\Refactoring\obj\Debug\Refactoring.csproj.GenerateResource.Cache
+E:\Tugas Kuliah\Semester 3\Pemrograman Lanjut\Praktikum 2\Refactoring\Refactoring\Refactoring\obj\Debug\Refactoring.exe
+E:\Tugas Kuliah\Semester 3\Pemrograman Lanjut\Praktikum 2\Refactoring\Refactoring\Refactoring\obj\Debug\Refactoring.pdb
